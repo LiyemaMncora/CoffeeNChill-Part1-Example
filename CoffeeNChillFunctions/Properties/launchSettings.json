@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "CoffeeNChillFunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7214"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "containerRunArguments": "--init",
+      "httpPort": 32854,
+      "useSSL": false
+    }
+  }
+}
