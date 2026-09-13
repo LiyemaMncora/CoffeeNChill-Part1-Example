@@ -1,7 +1,7 @@
 {
   "info": {
     "name": "CoffeeNChill - Part 1",
-    "description": "Tests every HTTP endpoint from Part 1 of the CoffeeNChill PoE: Menu Items (Azure Table Storage) and Staff Documents (Azure Blob Storage), running behind Azurite.",
+    "description": "...",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
   },
   "variable": [
