@@ -2,12 +2,11 @@
 
 Cloud foundation for the CoffeeNChill canteen system: digital menu items stored in **Azure Table Storage**, staff documents stored in **Azure Blob Storage**, exposed through **HTTP-triggered Azure Functions** (.NET isolated worker), all running locally against **Azurite** and packaged as standalone **Docker** containers.
 
-## Tech Stack
+## Requirements
 
-- .NET (Isolated Worker) Azure Functions, ASP.NET Core integration
+- .NET Azure Functions, ASP.NET Core integration
 - Azure.Data.Tables / Azure.Storage.Blobs SDKs
-- Azurite (Docker) for local Azure Storage emulation
-- Docker / Docker Hub
+- Docker Hub
 - Postman for endpoint testing
 
 ## Project Structure
@@ -104,7 +103,6 @@ Docker Hub images:
 
 | Member | Student Number | Contribution |
 |---|---|---|
-| [Name] | [Number] | [What they worked on] |
 | [Name] | [Number] | [What they worked on] |
 | [Name] | [Number] | [What they worked on] |
 
