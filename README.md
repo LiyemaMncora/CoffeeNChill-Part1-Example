@@ -1,4 +1,4 @@
-# CoffeeNChill Canteen Management System — Part 1
+# CoffeeNChill — Part 1
 
 Cloud foundation for the CoffeeNChill canteen system: digital menu items stored in **Azure Table Storage**, staff documents stored in **Azure Blob Storage**, exposed through **HTTP-triggered Azure Functions** (.NET isolated worker), all running locally against **Azurite** and packaged as standalone **Docker** containers.
 
